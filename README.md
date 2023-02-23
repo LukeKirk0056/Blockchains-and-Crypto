@@ -137,6 +137,7 @@ Any node or miner can
 verify that the block was correctly mined
 ```
 51% attacker:
+
 **CAN**:
 ```
 *Suppress transactions from blockchain
