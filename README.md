@@ -140,9 +140,11 @@ verify that the block was correctly mined
 **CAN**:
 ```
 *Suppress transactions from blockchain
-*Destroy confidence in Bitcoin```
+*Destroy confidence in Bitcoin
+```
 **CANT:**
-```*Steal coins from existing address
+```
+*Steal coins from existing address
 *suppress transactions from P2P network
 * change the block reward
 ```
