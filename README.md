@@ -1,5 +1,5 @@
 # Blockchains-and-Crypto
-Notes for CS 5970 University of Oklahoma
+## Notes for CS 5970 University of Oklahoma
 
 
 Decentralization:
@@ -138,7 +138,8 @@ verify that the block was correctly mined
 ```
 51% attacker:
 **CAN**:
-```*Suppress transactions from blockchain
+```
+*Suppress transactions from blockchain
 *Destroy confidence in Bitcoin```
 **CANT:**
 ```*Steal coins from existing address
